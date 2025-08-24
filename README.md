@@ -1,31 +1,34 @@
-A simple and fun Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. This project is made to practice web development basics like DOM manipulation, event handling, and styling.
+🎮✨ Rock • Paper • Scissors ✨🎮
+
+A fun and interactive game built using HTML, CSS, and JavaScript
 
 🚀 Features
 
-1. Play against the computer 🤖
+✔️ Play against the computer 🤖
+✔️ Random computer choices 🎲
+✔️ Win / Lose / Draw results instantly 🏆
+✔️ Live score tracking 🔢
+✔️ Simple & responsive UI 🎨
 
-2. Randomized computer choices
+🛠️ Tech Stack
 
-3. Displays winner after each round
+🏗️ HTML5 → Structure of the game
 
-4. Keeps track of scores
+🎨 CSS3 → Styling & layout
 
-5. Responsive and simple UI
+⚡ JavaScript (ES6) → Game logic & interactivity
 
-🛠️ Technologies Used
-
-1. HTML5 → Structure of the game
-
-2. CSS3 → Styling and layout
-
-3. JavaScript (ES6) → Game logic and interactivity
 
 🎯 How to Play
 
-1. Choose Rock, Paper, or Scissors by clicking the button.
+1️⃣ Choose Rock 🪨, Paper 📄, or Scissors ✂️
+2️⃣ Computer picks randomly 🤖
+3️⃣ Winner is announced instantly 🏅
+4️⃣ Score updates after each round 🔄
 
-2. The computer will make a random choice.
+1️⃣ Choose Rock 🪨, Paper 📄, or Scissors ✂️
+2️⃣ Computer picks randomly 🤖
+3️⃣ Winner is announced instantly 🏅
+4️⃣ Score updates after each round 🔄
 
-3. Results will be displayed showing whether you win, lose, or draw.
 
-4. Score updates automatically after each round.
