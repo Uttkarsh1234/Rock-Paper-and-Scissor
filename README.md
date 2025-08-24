@@ -10,6 +10,7 @@ A fun and interactive game built using HTML, CSS, and JavaScript
 ✔️ Live score tracking 🔢
 ✔️ Simple & responsive UI 🎨
 
+
 🛠️ Tech Stack
 
 🏗️ HTML5 → Structure of the game
@@ -20,11 +21,6 @@ A fun and interactive game built using HTML, CSS, and JavaScript
 
 
 🎯 How to Play
-
-1️⃣ Choose Rock 🪨, Paper 📄, or Scissors ✂️
-2️⃣ Computer picks randomly 🤖
-3️⃣ Winner is announced instantly 🏅
-4️⃣ Score updates after each round 🔄
 
 1️⃣ Choose Rock 🪨, Paper 📄, or Scissors ✂️
 2️⃣ Computer picks randomly 🤖
